@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.fullconteiner {
+  background: #ffaeaf;
+  width: 1604px;
+  height: 2208px;
+  padding: 96px;
+  text-align: center;
+  margin: 64px auto 268px;
+}
+
+.mainconteiner {
+  background: #fff;
+  padding: 96px 0px;
+  height: 2016px;
+}
+
+.blog {
+  color: #ed00a6;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.Resources {
+  color: #181d27;
+  font-size: 48px;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 12px;
+}
+
+.latest {
+  color: #535862;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 24px;
+}
+
+.image {
+   margin-top: 96px;
+   margin-left: 66px;
+}
+
+.fullimage {
+    text-align: left;
+}
+
+.image2 {
+    margin-top: 96px;
+    margin-right: 66px;
+}
+
+.fulllimage {
+    text-align: right;
+}
